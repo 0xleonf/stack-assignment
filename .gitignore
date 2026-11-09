@@ -1,0 +1,14 @@
+# Reports
+*.docx
+*.pdf
+
+# Python
+*.py
+__pycache__/
+
+# Documentation & other non-java
+*.md
+*.log
+
+# Bytecode
+*.class
